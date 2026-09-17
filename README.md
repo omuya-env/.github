@@ -71,7 +71,7 @@ Areas of interest include:
 ## Contact
 
 * **LinkedIn:** [Nurudeen Ahmed](https://www.linkedin.com/in/nurudeen-ahmed-291209212/)
-* **WhatsApp / Phone:** [+2348122647016]
-* **Email:** [ahmednurudeen06@gmail.com]
+* **WhatsApp / Phone:** +2348122647016
+* **Email:** ahmednurudeen06@gmail.com
 
 More projects and research-oriented work will be added as the portfolio develops.
